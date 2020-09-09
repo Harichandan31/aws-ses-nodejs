@@ -8,3 +8,5 @@ npm install dotenv aws-sdk --save
 https://www.npmjs.com/package/dotenv 
 
 https://www.npmjs.com/package/aws-sdk
+
+To Run the project node app.js
